@@ -1,0 +1,8 @@
+## Interface: 40000
+## Title: s|cffee0000Binder|r
+## SavedVariables: SpellBinderDB
+## Notes: Simple click2cast spell binder.
+## Author: Fernir
+## Version: 1.6
+
+core.lua
